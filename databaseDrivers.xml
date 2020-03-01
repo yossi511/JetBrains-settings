@@ -22,7 +22,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
-      <artifact name="H2" use="true" version="1.4.196" />
+      <artifact name="H2" use="true" version="1.4.200" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="format-sources-on-sync" value="true" />
