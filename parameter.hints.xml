@@ -1,83 +1,9 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="TypeScript" />
-      <blacklist language="Java" />
-      <blacklist language="Angular HTML Template">
-        <removed pattern="*.debug(*)" />
-        <removed pattern="Document.writeln(*)" />
-        <removed pattern="*.error(*)" />
-        <removed pattern="*.push(*)" />
-        <removed pattern="*.map(*, *)" />
-        <removed pattern="*.contains(*)" />
-        <removed pattern="*.log(*, *)" />
-        <removed pattern="*.charCodeAt(*)" />
-        <removed pattern="*.map(*)" />
-        <removed pattern="*.charAt(*)" />
-        <removed pattern="*.includes(*, *)" />
-        <removed pattern="(from*, to*)" />
-        <removed pattern="getElementById(*)" />
-        <removed pattern="Document.write(*)" />
-        <removed pattern="(message)" />
-        <removed pattern="*.log(*)" />
-        <removed pattern="*.add(*)" />
-        <removed pattern="*.endsWith(*, *)" />
-        <removed pattern="Error(*)" />
-        <removed pattern="require(*)" />
-        <removed pattern="(begin*, end*)" />
-        <removed pattern="*.filter(*)" />
-        <removed pattern="*.join(*)" />
-        <removed pattern="*.reduce(*, *)" />
-        <removed pattern="*.debug(*, *)" />
-        <removed pattern="*.set(*,*)" />
-        <removed pattern="*.padEnd(*, *)" />
-        <removed pattern="*.error(*, *)" />
-        <removed pattern="(format, arg*)" />
-        <removed pattern="*.concat(*)" />
-        <removed pattern="Promise.catch(*)" />
-        <removed pattern="(message, error)" />
-        <removed pattern="*.get(*)" />
-        <removed pattern="*.forEach(*)" />
-        <removed pattern="*.padStart(*, *)" />
-        <removed pattern="getElementsByTagName(*)" />
-        <removed pattern="Array.*(callbackfn, *)" />
-        <removed pattern="*.codePointAt(*)" />
-        <removed pattern="*.set*(*)" />
-        <removed pattern="*.startsWith(*)" />
-        <removed pattern="(start*, end*)" />
-        <removed pattern="*.endsWith(*)" />
-        <removed pattern="Promise.then(*, *)" />
-        <removed pattern="(key, value)" />
-        <removed pattern="*.lastIndexOf(*, *)" />
-        <removed pattern="*.create(*)" />
-        <removed pattern="(first*, last*)" />
-        <removed pattern="Array.*(callbackfn)" />
-        <removed pattern="(first*, second*)" />
-        <removed pattern="*.indexOf(*, *)" />
-        <removed pattern="*.append(*)" />
-        <removed pattern="*.startsWith(*, *)" />
-        <removed pattern="(min*, max*)" />
-      </blacklist>
-      <blacklist language="JavaScript" />
-      <blacklist language="Groovy" />
-      <blacklist language="SQL" />
-      <blacklist language="Kotlin" />
-    </blacklists>
-    <option id="angular.show.names.for.all.args" value="true" />
     <option id="java.multiple.params.same.type" value="true" />
-    <option id="SHOW_PROPERTY_HINT" value="true" />
-    <option id="js.param.hints.show.names.for.all.args" value="true" />
-    <option id="SHOW_PARAMETER_TYPE_HINT" value="true" />
-    <option id="sql.show.column.names.for.asterisk" value="true" />
-    <option id="java.clear.expression.type" value="true" />
-    <option id="sql.show.column.names.in.insert.values" value="true" />
-    <option id="js.only.show.names.for.all.args" value="true" />
-    <option id="SHOW_SUSPENDING_CALL" value="true" />
     <option id="java.build.like.method" value="true" />
-    <option id="SHOW_LOCAL_VARIABLE_HINT" value="true" />
-    <option id="SHOW_FUNCTION_HINT" value="true" />
     <option id="java.simple.sequentially.numbered" value="true" />
-    <option id="sql.show.column.names.in.select" value="true" />
+    <option id="java.clear.expression.type" value="true" />
     <option id="java.method.name.contains.parameter.name" value="true" />
   </component>
 </application>
