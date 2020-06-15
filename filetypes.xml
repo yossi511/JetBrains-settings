@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="multiDBConfiguration" type="JSON" />
+      <mapping pattern="neo4jConfiguration" type="JSON" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="configs" type="PLAIN_TEXT" />
